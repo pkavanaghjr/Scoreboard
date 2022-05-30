@@ -1,5 +1,25 @@
 # ignore everything in the root except the "wp-content" directory.
 !wp-content/
+wp-admin/
+wp-includes/
+xmlrpc.php
+wp-blog-header.php
+readme.html
+wp-signup.php
+index.php
+wp-cron.php
+wp-config-sample.php
+wp-config.php
+wp-login.php
+wp-settings.php
+license.txt
+wp-mail.php
+wp-links-opml.php
+wp-load.php
+wp-activate.php
+wp-trackback.php
+wp-comments-post.php
+
 
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
